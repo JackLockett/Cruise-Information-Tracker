@@ -9,7 +9,7 @@ This Python script is designed to track the current cruise information for vario
 2. Make sure you have Python 3 and the required libraries (`requests` and `BeautifulSoup4`) installed. You can install them using pip:
    ```bash
    pip install requests beautifulsoup4
-3. Run the script using your preferred Python interpreter:
+3. Run the script using your preferred Python interpreter.
 
 4. Follow the on-screen instructions to select a cruise ship to track. You can choose from the available options by entering the corresponding number.
 
