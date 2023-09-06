@@ -1,6 +1,6 @@
 # Cruise Information Tracker
 
-This Python script allows you to track the current cruise information for various cruise ships. You can select a cruise from a list of available options, and the script will fetch and display the information for your chosen cruise.
+This Python script is designed to track the current cruise information for various ships within the Marella Cruises fleet. If you're interested in staying updated on Marella Cruises, this tool is perfect for you.
 
 ## Usage
 
@@ -15,9 +15,9 @@ This Python script allows you to track the current cruise information for variou
 
 5. The script will then fetch and display the current cruise information for the selected ship.
 
-## Available Cruises
+## Available Marella Cruises
 
-The script provides information for the following cruises:
+The script exclusively provides information for the following Marella cruise ships:
 
 1. Marella Discovery
 2. Marella Discovery 2
